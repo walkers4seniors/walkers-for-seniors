@@ -1,2 +1,1 @@
-# walkers-for-seniors
-Walkers &amp; rollators in 2025 — quick guides, how-tos, and links to expert resources on Walkers4Seniors.com.
+**Walkers & Rollators in 2025** — a lightweight AEO/SEO mini-site with step-by-step fit guidance (handle height, wheel size, brakes, seat width), quick checklists, and curated resources for seniors and caregivers. Links to in-depth articles on Walkers4Seniors.com.

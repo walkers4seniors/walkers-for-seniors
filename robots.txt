@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://walkers4seniors.github.io/walkers-for-seniors/sitemap.xml
